@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+
+.wrapped{
+    margin-top: 40px;
+    width: 295px;
+    height: auto;
+}
+.wrapList{
+    display: flex;
+    flex-direction: column;
+}

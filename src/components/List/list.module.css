@@ -1,0 +1,10 @@
+.listText{
+    background-color: rgba(165, 42, 42, 0.582);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.listText p{
+    font-size: 19px;
+    margin: 2px;
+}
